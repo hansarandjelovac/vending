@@ -1,6 +1,10 @@
 # vending
 vending masina 
 
+v1.4.1
+
+Dugmici rade
+
 v1.4
 
 Dodati dugmici u slucaju da masina zaglavi, odlazi motor nazad na 10 sekundi i daje vremena da korisnik odglavi flasu 
